@@ -1,0 +1,15 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-AgpaytechApplication<agpaytech>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "mainClass": "com.examples.agpaytech.AgpaytechApplication",
+            "projectName": "agpaytech",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}
